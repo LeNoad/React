@@ -46,3 +46,5 @@ useEffect(() => {
 
 ### 3. Component가 unmount 될 때 또는 update 되기 직전
 >cleanup 함수 변환 (return 뒤에 나오는 함슁며, useEffect에 대한 뒷정리 함수라고 한다.)
+### 3. Component가 unmount 될 때 또는 update 되기 직전
+>cleanup 함수 변환 (return 뒤에 나오는 함슁며, useEffect에 대한 뒷정리 함수라고 한다.)
