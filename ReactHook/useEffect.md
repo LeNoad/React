@@ -1,6 +1,6 @@
 ## React Hook
 ---
-## 1. useEffect()
+## useEffect()
 >useEffect 함수는 리액트 컴포넌트가 렌더링 될 때마다 특정 작업을 실행할 수 있도록 하는 Hook 이다. useEffect는 Component가 mount 되었을 때, Component가 unmount 되었을때, component가 update 되었을때, 특정 작업을 처리 할 수 있다.
 
 ![LifeCycle](/images/ReactLifeCycle.PNG "[ Life Cycle ]")
